@@ -22,6 +22,10 @@
 
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+     <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
     <!-- Custom styles for this template -->
     <link href="css/modern-business.css?v=2" rel="stylesheet">
     <!-- Custom fonts for this template -->
